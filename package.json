@@ -1,0 +1,8 @@
+{
+  "name": "ningxia-tour",
+  "version": "0.0.0",
+  "description": "a simple guide to ningxia",
+  "main": "index.js",
+  "author": "Hoyeung Wong",
+  "license": "MIT"
+}
